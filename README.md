@@ -1,2 +1,2 @@
-# ninjeanne.github.io
-github pages test
+My business card [ninjeanne.github.io](https://ninjeanne.github.io)
+
